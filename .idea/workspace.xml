@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4eabff80-66a6-4b85-a0e3-ee813a9f3769" name="Changes" comment="Add:Robot.java">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/devoirs_prog2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/s1/Robot.java" afterDir="false" />
+    <list default="true" id="4eabff80-66a6-4b85-a0e3-ee813a9f3769" name="Changes" comment="Update:Robot.java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +56,21 @@
       <option name="presentableId" value="Default" />
       <updated>1653572209184</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add:Robot.java">
+      <created>1653573154761</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653573154761</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update:Robot.java">
+      <created>1653574258643</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653574258643</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,6 +86,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add:Robot.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add:Robot.java" />
+    <MESSAGE value="Update:Robot.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update:Robot.java" />
   </component>
 </project>
