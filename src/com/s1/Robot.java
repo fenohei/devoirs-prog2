@@ -59,6 +59,7 @@ public class Robot {
         bemax.avancer();
         bemax.showRobot();
         bemax.tourner("droite");
+        bemax.tourner("droite");
         bemax.avancer();
         bemax.showRobot();
         bemax.tourner("gauche");
